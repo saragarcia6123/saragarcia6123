@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @saragarcia6123
+- 👀 I’m interested in AI, Data Science, Blockchain
+- 🌱 I’m currently learning loads of things!
