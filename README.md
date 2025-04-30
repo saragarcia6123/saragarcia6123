@@ -6,6 +6,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saragarcia6123&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=saragarcia6123&theme=dark&hide_border=false)
+###
