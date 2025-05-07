@@ -1,8 +1,8 @@
 ![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen)
 
-# 👋 Hi, I'm Sara. A backend developer.
+## 👩‍💻 Hi, I'm Sara. A full-stack software developer.
 
-#### 📌 Galicia, Spain | 🏠 London, UK
+#### 📌 Galicia, Spain ‎ ‎ ‎ ‎ ‎ ‎ 🏠 London, UK
 
 <br>
 
@@ -20,20 +20,29 @@
 
 <br>
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
+---
 
-## 🖥️ Technologies
+## 🚀 Latest project
 
-#### 🛠️ Main Stack
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,bash,linux,docker,gcp,graphql,git,figma)](https://skillicons.dev)
+[![Sentiverse](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=Sentiverse&theme=dark&hide_border=true)](https://github.com/saragarcia6123/Sentiverse)
 
-#### 📚 Learning
-[![Learning](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind)](https://skillicons.dev)
+---
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 🖥️ Tech Stack
 
-## Metrics
+#### ⚙️ Backend
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,nodejs,graphql)](https://skillicons.dev)
+
+#### 🎨 Frontend
+[![Learning](https://skillicons.dev/icons?i=js,ts,react,tailwind,figma)](https://skillicons.dev)
+
+#### 🛠️ DevOps
+[![Skills](https://skillicons.dev/icons?i=bash,linux,docker,gcp,git)](https://skillicons.dev)
+
+---
+
+## 📈 Metrics
 
 <div style="width: 100%; display: flex; justify-content: center;">
   <div style="display: flex;">
@@ -41,11 +50,3 @@
     <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 </div>
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Current project
-
-[![Sentiverse](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=Sentiverse&theme=dark&hide_border=true)](https://github.com/saragarcia6123/Sentiverse)
-
-###
