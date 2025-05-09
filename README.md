@@ -23,22 +23,20 @@
 
 ---
 
-## 🚀 Latest project
-
-[![Sentiverse](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=Sentiverse&theme=dark&hide_border=true)](https://github.com/saragarcia6123/Sentiverse)
+| 🚀 Latest project                                                                                                     | 📚 Stack                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [![Sentiverse](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=Sentiverse&theme=dark&hide_border=true)](https://github.com/saragarcia6123/Sentiverse) | [![Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=typescript,react,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=gcp,linux,nginx)](https://skillicons.dev) |
 
 ---
 
-## 🖥️ Tech Stack
+## 🖥️ Technologies I have worked with 
 
-#### ⚙️ Backend
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,nodejs,graphql)](https://skillicons.dev)
-
-#### 🎨 Frontend
-[![Learning](https://skillicons.dev/icons?i=js,ts,react,tailwind,figma)](https://skillicons.dev)
-
-#### 🛠️ DevOps
-[![Skills](https://skillicons.dev/icons?i=bash,linux,docker,gcp,git)](https://skillicons.dev)
+|                                                                                                          |                                                                                                                  |                                                                                                                |
+|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| 🌐 **Languages**                                                                                         | ⚙️ **Backend**                                                                                                   | 🛢️ **Databases**                                                                                               |
+| [![Skills](https://skillicons.dev/icons?i=python,java,kotlin,bash,solidity)](https://skillicons.dev)     | [![Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,graphql)](https://skillicons.dev)          | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase,mongodb)](https://skillicons.dev) |
+|                                                                                                          | 🎨 **Frontend**                                                                                                  | 🛠️ **DevOps**                                                                                                  |
+|  [![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,dart)](https://skillicons.dev) | [![Learning](https://skillicons.dev/icons?i=react,tailwind,flutter,androidstudio,figma)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,linux,docker,gcp,nginx)](https://skillicons.dev)                 |
 
 ---
 
