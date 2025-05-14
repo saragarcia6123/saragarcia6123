@@ -48,3 +48,13 @@
     <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 </div>
+
+---
+
+## WakaTime
+
+<div style="display: flex">
+    <figure><img src="https://wakatime.com/share/@saragarcia6123/9f354b06-1c51-4d93-b08f-1498fe06afd2.svg" width=400></img></figure>
+    <figure><img src="https://wakatime.com/share/@saragarcia6123/8681f0d1-a75b-47d2-b013-cd255a06988d.svg" width=400></img></figure>
+</div>
+<figure><img src="https://wakatime.com/share/@saragarcia6123/e6d66ebc-3ff1-4588-85c5-1f5ac91038b0.svg" width=800></img></figure>
