@@ -54,7 +54,7 @@
 ## WakaTime
 
 <div style="display: flex">
-    <figure><img src="https://wakatime.com/share/@saragarcia6123/f27bc106-93b2-42f1-b242-ac1617ddbb4a.svg" width=500></img></figure>
-    <figure><img src="https://wakatime.com/share/@saragarcia6123/f1f8339a-08bc-4822-8670-20bb0d5533fb.svg" width=500></img></figure>
+    <figure><img src="https://wakatime.com/share/@saragarcia6123/f27bc106-93b2-42f1-b242-ac1617ddbb4a.svg" width=400></img></figure>
+    <figure><img src="https://wakatime.com/share/@saragarcia6123/f1f8339a-08bc-4822-8670-20bb0d5533fb.svg" width=400></img></figure>
 </div>
-<figure><img src="https://wakatime.com/share/@saragarcia6123/e6d66ebc-3ff1-4588-85c5-1f5ac91038b0.svg" width=1000></img></figure>
+<figure><img src="https://wakatime.com/share/@saragarcia6123/e6d66ebc-3ff1-4588-85c5-1f5ac91038b0.svg" width=800></img></figure>
