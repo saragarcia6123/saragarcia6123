@@ -23,9 +23,10 @@
 
 ---
 
-| 🚀 Latest project                                                                                                     | 📚 Stack                                                                                              |
+| 🚀 Latest project                                                                                                      | 📚 Stack                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [![Sentiverse](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=Sentiverse&theme=dark&hide_border=true)](https://github.com/saragarcia6123/Sentiverse) | [![Skills](https://skillicons.dev/icons?i=python,fastapi,graphql)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=typescript,react,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=gcp,linux,nginx)](https://skillicons.dev) |
+[![wakatime](https://wakatime.com/badge/github/saragarcia6123/Sentiverse.svg)](https://wakatime.com/badge/github/saragarcia6123/Sentiverse)
 
 ---
 
