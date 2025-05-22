@@ -32,7 +32,7 @@
 
 <div style="width: 100%; display: flex; justify-content: center;">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
     <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 </div>
