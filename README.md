@@ -1,10 +1,12 @@
 ![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen)
 
-## 👩‍💻 Hi, I'm Sara. A full-stack software developer.
-
-#### 📌 Galicia, Spain ‎ ‎ ‎ ‎ ‎ ‎ 🏠 London, UK
+## 👩‍💻 Hi, I'm Sara Garcia. A software engineer.
 
 <br>
+
+<a href="mailto:saragarcia6123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
+</a>
 
 <a href="https://www.linkedin.com/in/saragarcia6123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
@@ -14,12 +16,15 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
 </a>
 
-<a href="mailto:saragarcia6123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
-</a>
-
 <br>
 
+---
+
+## 🖥️ Tech Stack 
+
+| 🌐 **Languages**                                                                                         | ⚙️ **Libraries**                                                                                                   | 🛢️ **Databases**                                                                            | 🛠️ **DevOps** |
+|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:-------------:|
+| [![Skills](https://skillicons.dev/icons?i=python,bash,typescript,kotlin)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,tensorflow)](https://skillicons.dev)                               | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=linux,docker,gcp,nginx)](https://skillicons.dev) |
 
 ---
 
@@ -27,17 +32,6 @@
 |------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [![Sentiverse](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=Sentiverse&theme=dark&hide_border=true)](https://github.com/saragarcia6123/Sentiverse) | [![Skills](https://skillicons.dev/icons?i=python,fastapi,graphql)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=typescript,react,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=gcp,linux,nginx)](https://skillicons.dev) |
 [![wakatime](https://wakatime.com/badge/github/saragarcia6123/Sentiverse.svg)](https://wakatime.com/badge/github/saragarcia6123/Sentiverse)
-
----
-
-## 🖥️ Technologies I have worked with 
-
-|                                                                                                          |                                                                                                                  |                                                                                                                |
-|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| 🌐 **Languages**                                                                                         | ⚙️ **Backend**                                                                                                   | 🛢️ **Databases**                                                                                               |
-| [![Skills](https://skillicons.dev/icons?i=python,java,kotlin,bash,solidity)](https://skillicons.dev)     | [![Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,graphql)](https://skillicons.dev)          | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase,mongodb)](https://skillicons.dev) |
-|                                                                                                          | 🎨 **Frontend**                                                                                                  | 🛠️ **DevOps**                                                                                                  |
-|  [![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,dart)](https://skillicons.dev) | [![Learning](https://skillicons.dev/icons?i=react,tailwind,flutter,androidstudio,figma)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,linux,docker,gcp,nginx)](https://skillicons.dev)                 |
 
 ---
 
