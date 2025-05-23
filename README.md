@@ -24,7 +24,7 @@
 
 | 🌐 **Languages**                                                                                         | ⚙️ **Libraries**                                                                                                   | 🛢️ **Databases**                                                                            | 🛠️ **DevOps** |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:-------------:|
-| [![Skills](https://skillicons.dev/icons?i=python,bash,typescript,kotlin,solidity)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=fastapi,flask,pytorch,tensorflow)](https://skillicons.dev)                               | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=linux,docker,gcp,nginx)](https://skillicons.dev) |
+| [![Skills](https://skillicons.dev/icons?i=python,bash,typescript,kotlin,solidity)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=fastapi,react,pytorch,tensorflow)](https://skillicons.dev)                               | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=linux,docker,gcp,nginx)](https://skillicons.dev) |
 
 ---
 
