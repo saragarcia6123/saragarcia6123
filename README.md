@@ -1,27 +1,29 @@
 ![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen)
 
-## 👩‍💻 Hi, I'm Sara Garcia. A programmer.
+## 👩‍💻 Hi, I'm Sara. A programmer.
 
 When I say I like coding I really mean it.
+
+📍 A Coruña, Spain
 
 <br>
 
 <div align="left">
     
   <a href="https://saragarcia.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Website" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=338e4a&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="website"  />
   </a>
   <a href="https://linktree.com/saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1db9b6&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linktree logo"  />
   </a>
   <a href="mailto:saragarcia6123@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=indeed&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/SaraGarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/310691895799971862" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
@@ -30,7 +32,7 @@ When I say I like coding I really mean it.
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
   </a>
   <a href="https://stackoverflow.com/users/14369848/saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stove&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stove&logo=stackoverflow&label=&color=CE7816&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
   </a>
 </div>
 
