@@ -50,12 +50,14 @@ When I say I like coding I really mean it.
 
 ## 📈 Metrics
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dark&hide_border=true&order=2" height="150"/>
-    <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
+<br clear="both">
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
+
+###
 
 ---
 
