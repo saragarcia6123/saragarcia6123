@@ -44,7 +44,7 @@ When I say I like coding I really mean it.
 
 | 🌐 **Languages**                                                                                         | ⚙️ **Libraries**                                                                                                   | 🛢️ **Databases**                                                                            | 🛠️ **DevOps** |
 |:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:-------------:|
-| [![Skills](https://skillicons.dev/icons?i=python,bash,typescript,java,kotlin)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=fastapi,react,pytorch,tensorflow)](https://skillicons.dev)                               | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=linux,docker,gcp,nginx)](https://skillicons.dev) |
+| [![Skills](https://skillicons.dev/icons?i=python,bash,typescript)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=fastapi,react,tailwind)](https://skillicons.dev)                               | [![Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=linux,docker,gcp)](https://skillicons.dev) |
 
 ---
 
