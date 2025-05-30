@@ -2,41 +2,42 @@
 
 ## 👩‍💻 Hi, I'm Sara. A programmer.
 
-When I say I like coding I really mean it.
+> *"When I say I like coding, I mean it."*
 
-📍 A Coruña, Spain
+#### 📍 A Coruña, Spain 🇪🇸
 
 <br>
 
 <div align="left">
-    
-  <a href="https://saragarcia.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=338e4a&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="website"  />
-  </a>
-  <a href="https://linktree.com/saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1db9b6&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linktree logo"  />
-  </a>
-  <a href="mailto:saragarcia6123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=indeed&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/SaraGarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/310691895799971862" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
-  </a>
-  <a href="https://medium.com/@saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="medium logo"  />
+  
+  <a href="mailto:hello@saragarcia.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/14369848/saragarcia6123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stove&logo=stackoverflow&label=&color=CE7816&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stove&logo=stackoverflow&label=&color=CE7816&logoColor=white&style=for-the-badge" height="27" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://wakatime.com/@saragarcia6123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WakaTime&logo=wakatime&label=&color=ecd000&logoColor=gray&style=for-the-badge" height="27" alt="wakatime logo"  />
+  </a>
+  <a href="https://saragarcia.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=338e4a&logoColor=white&style=for-the-badge" height="27" alt="website"  />
+  </a>
+  <a href="https://linktree.com/saragarcia6123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1db9b6&logoColor=white&style=for-the-badge" height="27" alt="linktree logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saragarcia6123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=indeed&label=&color=0077B5&logoColor=white&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/310691895799971862" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="27" alt="discord logo"  />
+  </a>
+  <a href="https://medium.com/@saragarcia6123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=8c80b9&logoColor=white&style=for-the-badge" height="27" alt="medium logo"  />
+  </a>
+  <a href="https://x.com/SaraGarcia6123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=3f426a&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
 </div>
-
-###
 
 ---
 
@@ -50,17 +51,20 @@ When I say I like coding I really mean it.
 
 ## 📈 Metrics
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3&hide_total_contributions=true" height="140" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=saragarcia6123&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3&hide_longest_streak=true" height="140" alt="streak graph"  />
 </div>
-
-###
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saragarcia6123&locale=en&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=21600" height="140" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saragarcia6123&theme=dark&hide_border=true&langs_count=4&cache_seconds=21600" alt="wakatime stats" height="140" />
+</div>
 
 ---
 
-🎯 Latest Repo:
+## 🎯 Latest Repo:
 
-[![C](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=c-learning&theme=dark&hide_border=true)](https://github.com/saragarcia6123/c-learning)
+[![C](https://github-readme-stats.vercel.app/api/pin/?username=saragarcia6123&repo=c-learning&theme=dark&hide_border=true&description_lines_count=2)](https://github.com/saragarcia6123/c-learning)
+
+---
+
+*i use arch, btw*
