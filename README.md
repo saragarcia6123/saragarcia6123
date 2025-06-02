@@ -1,8 +1,6 @@
 ![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen)
 
-## 👩‍💻 Hi, I'm Sara. A programmer.
-
-> *"When I say I like coding, I mean it."*
+## 👩‍💻 Hi, I'm Sara Garcia. A Software Engineer.
 
 #### 📍 A Coruña, Spain 🇪🇸
 
