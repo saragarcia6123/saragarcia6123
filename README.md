@@ -12,6 +12,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-008588?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-4184AA?style=flat&logo=react&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2169C1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-478489?style=flat&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-3776AB?style=flat&logo=googlecloud&logoColor=white)
