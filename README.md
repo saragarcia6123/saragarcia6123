@@ -1,6 +1,6 @@
 ## Hi, I'm Sara Garcia
 
-> 🎓 1st Year Cyber Security BSc Hons, Lancaster University
+> 🎓 1st Year Computer Science BSc Hons, Lancaster University
 
 ---
 
@@ -31,3 +31,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/AssemblyScript-007AAC?style=flat&logo=assemblyscript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
